@@ -163,5 +163,5 @@ python build_exe.py
 ---
 
 MIT. Built for [Hack Club Stardance](https://stardance.hackclub.com) by Venkata.M.
-
+Maintained and customized by Rajeev Menaria
 
